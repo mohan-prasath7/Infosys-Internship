@@ -17,7 +17,6 @@ Welcome to the Cyberbullying Detection Model repository! This machine learning m
 Ensure you have Python 3.8+ installed along with the following libraries:  
 - TensorFlow 🧠  
 - Keras 🤖  
-- Pandas 🐼  
-- NumPy 🔢  
+- Pandas 🐼   
 - Scikit-learn 📊  
 
